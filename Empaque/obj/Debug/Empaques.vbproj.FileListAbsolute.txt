@@ -1,0 +1,10 @@
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\bin\Debug\Empaques.exe.config
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\bin\Debug\Empaques.exe
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\bin\Debug\Empaques.pdb
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\bin\Debug\Empaques.xml
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\obj\Debug\Empaques.Form1.resources
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\obj\Debug\Empaques.Resources.resources
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\obj\Debug\Empaques.vbproj.GenerateResource.Cache
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\obj\Debug\Empaques.exe
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\obj\Debug\Empaques.xml
+C:\Users\hernan\AppData\Local\Temporary Projects\Empaques\obj\Debug\Empaques.pdb
